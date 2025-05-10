@@ -8,7 +8,7 @@ Aqui você encontrará projetos que refletem minha paixão por código limpo, be
 - **Java • Spring Boot • JPA • Hibernate**
 - **PostgreSQL • MySQL**
 - **Maven • Git • Docker (básico)**
-- **Spring Security • Swagger • Lombok**
+- **Spring Security • Swagger • Lombok (básico)**
 
 ## 🧠 Em constante evolução:
 Estou sempre estudando novas tecnologias e aprimorando minhas habilidades. Me interesso por arquitetura de software, microsserviços e boas práticas de engenharia.
